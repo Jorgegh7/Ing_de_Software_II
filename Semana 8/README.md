@@ -61,5 +61,5 @@ Carpetas:
 
 ## Autores
 
-*[Nombre integrante 1]*
-*[Nombre integrante 2]*
+- Jorge Gallardo Heck
+- Pedro Breit Lira
