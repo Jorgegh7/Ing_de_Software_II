@@ -35,13 +35,16 @@ Prototipo de baja y alta fidelidad, con dos roles de usuario sobre una pantalla 
 - **Login** — pantalla compartida por ambos roles (1 pantalla en común).
 - **Flujo Administrador** (5 pantallas) — Registro de Residentes, Departamentos y Residentes, Gestión de Gastos Comunes, Notificaciones, Crear Notificación.
 - **Flujo Residente** (7 pantallas) — Mis Gastos Comunes, Detalle del Gasto Común (pendiente y pagado), Confirmación de Pago, Notificaciones, Perfil.
+- **6 pantallas complementarias con mensajes de confirmación** — distribuidas entre ambos flujos, ante acciones críticas del usuario (por ejemplo, registro de un residente o descarga de un comprobante).
+
+En alta fidelidad, la navegación de ambos flujos quedó conectada de forma interactiva mediante el modo Prototype de Figma, enlazando cada pantalla con la siguiente a través de sus botones y elementos de acción, de modo que el prototipo permite simular la experiencia real de navegación mediante clics, y no solo presentar imágenes estáticas.
 
 Carpetas:
 
-- **/Alta fidelidad** — capturas del prototipo de alta fidelidad de ambos roles.
+- **/Alta fidelidad** — capturas del prototipo de alta fidelidad de ambos roles, incluyendo las pantallas complementarias de confirmación.
 - **/Baja fidelidad** — capturas del wireframe inicial de baja fidelidad.
 - **/Anexo Prototipo Alta Fidelidad** — composiciones de referencia generadas con IA, utilizadas como apoyo visual para algunas vistas del prototipo que no corresponden a diagramas estructurales del DAS, orientando el sistema visual de alta fidelidad (paleta de colores, tipografía, iconografía y disposición de las pantallas) antes de recrear cada una manualmente en Figma. No forman parte del prototipo entregable, se incluyen como material de apoyo del proceso de diseño.
-- **link_figma.txt** — enlace al archivo editable en Figma.
+- **link_figma.txt** — enlace al archivo editable en Figma, con el prototipo interactivo.
 
 ### 🗺️ Diagramas
 
